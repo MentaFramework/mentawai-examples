@@ -1,0 +1,67 @@
+
+# Globals
+
+title = Mentawai Reference Application
+
+# LoginAction
+
+LoginAction.no_username = Please enter an username!
+LoginAction.no_password = Please enter a password!
+LoginAction.unknown_user = Username unknown!
+LoginAction.bad_password = Incorrect password!
+
+# UserAction
+
+UserAction.required_field = Required Field!
+UserAction.bad_username = Invalid username!
+UserAction.bad_email = Invalid email!
+UserAction.pass_no_match = Passwords do not match!
+UserAction.username_already_exists = Username already exists!
+UserAction.registration_ok = Registration successful!
+UserAction.edit_ok = Account saved!
+
+# index.jsp
+
+index.welcome = Welcome $1
+index.logout = Logout
+index.alter_profile = Click here to modify your account!
+index.only_admin_master = Only admin and master can modify account!
+
+# login.jsp
+
+login.login = Login
+login.username = Username:
+login.password = Password:
+login.enter = Enter
+login.register = Click here to register!
+
+# user/add.jsp
+
+user.add.registration = Registration
+user.add.username = Username:
+user.add.password = Password:
+user.add.passconf = Confirm:
+user.add.email = Email:
+user.add.go = Register
+user.add.register = I am already registered!
+user.add.group = Group:
+user.add.language = Language:
+user.add.username_error = Error checking username!
+user.add.username_already = Username already exists!
+
+# user/edit.jsp
+
+user.edit.account = Your account
+user.edit.username = Username:
+user.edit.email = Email:
+user.edit.save = Save
+user.edit.back = Back to main page!
+user.edit.group = Group:
+user.edit.language = Language:
+user.edit.username_error = Error checking username!
+user.edit.username_already = Username already exists!
+
+
+
+
+

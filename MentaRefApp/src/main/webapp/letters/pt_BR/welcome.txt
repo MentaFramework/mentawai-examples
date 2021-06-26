@@ -1,0 +1,12 @@
+Bem-vindo ao Menta Web App
+
+Obrigado por se registrar. Sua informação está abaixo:
+
+Apelido: $username
+Senha: $password
+
+Atenciosamente,
+
+Menta Web App
+
+

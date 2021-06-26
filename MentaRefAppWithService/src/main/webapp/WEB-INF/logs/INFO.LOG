@@ -1,0 +1,695 @@
+LOG OPENED - Mon Oct 10 11:51:04 CDT 2011
+10.11:51:04 Context Path = null
+10.11:51:04 Environment = DEV
+10.11:51:04 Persistency = JDBC
+LOG OPENED - Mon Oct 10 11:54:40 CDT 2011
+10.11:54:40 Context Path = null
+10.11:54:40 Environment = DEV
+10.11:54:40 Persistency = JDBC
+LOG OPENED - Mon Oct 10 12:25:29 CDT 2011
+10.12:25:29 Context Path = null
+10.12:25:29 Environment = DEV
+10.12:25:29 Persistency = JDBC
+LOG OPENED - Mon Oct 10 13:40:51 CDT 2011
+10.13:40:51 Context Path = /menta
+10.13:40:51 Environment = DEV
+10.13:40:51 Persistency = JDBC
+LOG OPENED - Mon Oct 10 14:12:12 CDT 2011
+10.14:12:12 Context Path = null
+10.14:12:12 Environment = DEV
+10.14:12:12 Persistency = JDBC
+LOG OPENED - Mon Oct 10 14:13:59 CDT 2011
+10.14:13:59 Context Path = /menta
+10.14:13:59 Environment = DEV
+10.14:13:59 Persistency = JDBC
+LOG OPENED - Mon Oct 10 14:15:50 CDT 2011
+10.14:15:50 Context Path = /menta
+10.14:15:50 Environment = DEV
+10.14:15:50 Persistency = JDBC
+10.14:15:55 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 08:51:10 CDT 2011
+12.08:51:10 Context Path = /menta
+12.08:51:10 Environment = DEV
+12.08:51:10 Persistency = JDBC
+LOG OPENED - Wed Oct 12 08:51:56 CDT 2011
+12.08:51:56 Context Path = /menta
+12.08:51:56 Environment = DEV
+12.08:51:56 Persistency = JDBC
+LOG OPENED - Wed Oct 12 08:52:25 CDT 2011
+12.08:52:25 Context Path = /menta
+12.08:52:25 Environment = DEV
+12.08:52:25 Persistency = JDBC
+12.08:52:46 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 08:58:43 CDT 2011
+12.08:58:43 Context Path = /menta
+12.08:58:43 Environment = DEV
+12.08:58:43 Persistency = JDBC
+12.08:59:43 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 08:59:53 CDT 2011
+12.08:59:53 Context Path = /menta
+12.08:59:53 Environment = DEV
+12.08:59:53 Persistency = JDBC
+12.08:59:57 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 09:00:47 CDT 2011
+12.09:00:47 Context Path = /menta
+12.09:00:47 Environment = DEV
+12.09:00:47 Persistency = JDBC
+12.09:01:51 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 09:07:51 CDT 2011
+12.09:07:51 Context Path = /menta
+12.09:07:51 Environment = DEV
+12.09:07:51 Persistency = JDBC
+LOG OPENED - Wed Oct 12 09:09:40 CDT 2011
+12.09:09:40 Context Path = /menta
+12.09:09:40 Environment = DEV
+12.09:09:40 Persistency = JDBC
+LOG OPENED - Wed Oct 12 09:12:30 CDT 2011
+12.09:12:30 Context Path = /menta
+12.09:12:30 Environment = DEV
+12.09:12:30 Persistency = JDBC
+LOG OPENED - Wed Oct 12 09:52:52 CDT 2011
+12.09:52:52 Context Path = /menta
+12.09:52:52 Environment = DEV
+12.09:52:52 Persistency = JDBC
+LOG OPENED - Wed Oct 12 09:54:24 CDT 2011
+12.09:54:24 Context Path = /menta
+12.09:54:24 Environment = DEV
+12.09:54:24 Persistency = JDBC
+LOG OPENED - Wed Oct 12 09:54:47 CDT 2011
+12.09:54:47 Context Path = /menta
+12.09:54:47 Environment = DEV
+12.09:54:47 Persistency = JDBC
+12.09:56:39 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 09:56:42 CDT 2011
+12.09:56:42 Context Path = /menta
+12.09:56:42 Environment = DEV
+12.09:56:42 Persistency = JDBC
+12.09:57:02 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 09:57:03 CDT 2011
+12.09:57:03 Context Path = /menta
+12.09:57:03 Environment = DEV
+12.09:57:03 Persistency = JDBC
+12.09:59:37 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 09:59:40 CDT 2011
+12.09:59:40 Context Path = /menta
+12.09:59:40 Environment = DEV
+12.09:59:40 Persistency = JDBC
+LOG OPENED - Wed Oct 12 10:00:41 CDT 2011
+12.10:00:41 Context Path = /menta
+12.10:00:41 Environment = DEV
+12.10:00:41 Persistency = JDBC
+12.10:07:02 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 10:07:11 CDT 2011
+12.10:07:11 Context Path = /menta
+12.10:07:11 Environment = DEV
+12.10:07:11 Persistency = JDBC
+12.10:13:13 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 10:13:25 CDT 2011
+12.10:13:25 Context Path = /menta
+12.10:13:25 Environment = DEV
+12.10:13:25 Persistency = JDBC
+12.10:16:30 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 12 10:19:44 CDT 2011
+12.10:19:44 Context Path = null
+12.10:19:44 Environment = DEV
+12.10:19:44 Persistency = JDBC
+LOG OPENED - Wed Oct 12 11:21:20 CDT 2011
+12.11:21:20 Context Path = null
+12.11:21:20 Environment = DEV
+12.11:21:20 Persistency = JDBC
+LOG OPENED - Wed Oct 12 11:23:52 CDT 2011
+12.11:23:52 Context Path = null
+12.11:23:52 Environment = DEV
+12.11:23:52 Persistency = JDBC
+LOG OPENED - Wed Oct 12 11:32:35 CDT 2011
+12.11:32:35 Context Path = null
+12.11:32:35 Environment = DEV
+12.11:32:35 Persistency = JDBC
+LOG OPENED - Wed Oct 12 15:16:29 CDT 2011
+12.15:16:29 Context Path = null
+12.15:16:29 Environment = DEV
+12.15:16:29 Persistency = JDBC
+LOG OPENED - Wed Oct 12 15:18:05 CDT 2011
+12.15:18:05 Context Path = /menta
+12.15:18:05 Environment = DEV
+12.15:18:05 Persistency = JDBC
+LOG OPENED - Wed Oct 12 15:39:16 CDT 2011
+12.15:39:16 Context Path = null
+12.15:39:16 Environment = DEV
+12.15:39:16 Persistency = JDBC
+LOG OPENED - Wed Oct 12 15:50:37 CDT 2011
+12.15:50:37 Context Path = null
+12.15:50:37 Environment = DEV
+12.15:50:37 Persistency = JDBC
+LOG OPENED - Thu Oct 13 08:33:57 CDT 2011
+13.08:33:57 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.08:35:45 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 08:53:16 CDT 2011
+13.08:53:16 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 09:19:36 CDT 2011
+13.09:19:36 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 09:49:54 CDT 2011
+13.09:49:54 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.09:54:22 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 10:00:35 CDT 2011
+13.10:00:35 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.10:06:27 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 10:07:03 CDT 2011
+13.10:07:03 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 10:11:25 CDT 2011
+13.10:11:25 Init requried!
+LOG OPENED - Thu Oct 13 10:12:01 CDT 2011
+13.10:12:01 Init requried!
+13.10:12:01 File:  src/main/webapp/WEB-INF/db/menta.sql
+LOG OPENED - Thu Oct 13 10:13:26 CDT 2011
+13.10:13:26 Init requried!
+13.10:13:26 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:13:26 File exists !!!
+LOG OPENED - Thu Oct 13 10:22:18 CDT 2011
+13.10:22:18 Init requried!
+13.10:22:18 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:22:18 File exists !!!
+LOG OPENED - Thu Oct 13 10:22:53 CDT 2011
+13.10:22:53 Init requried!
+13.10:22:53 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:22:53 File exists !!!
+LOG OPENED - Thu Oct 13 10:33:12 CDT 2011
+13.10:33:12 Init requried!
+13.10:33:12 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:33:12 File exists !!!
+LOG OPENED - Thu Oct 13 10:34:29 CDT 2011
+13.10:34:29 Init requried!
+13.10:34:29 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:34:29 File exists !!!
+13.10:34:29 NOT INIT !!!
+LOG OPENED - Thu Oct 13 10:35:01 CDT 2011
+13.10:35:01 Init requried!
+13.10:35:01 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:35:01 File exists !!!
+13.10:35:01 NOT INIT !!!
+LOG OPENED - Thu Oct 13 10:37:42 CDT 2011
+13.10:37:42 Init requried!
+13.10:37:42 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:37:42 File exists !!!
+13.10:37:42 NOT INIT !!!
+LOG OPENED - Thu Oct 13 10:38:18 CDT 2011
+13.10:38:18 Init requried!
+13.10:38:18 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:38:18 File exists !!!
+13.10:38:18 COUNT: 12
+13.10:38:18 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 10:38:46 CDT 2011
+13.10:38:46 Init requried!
+13.10:38:46 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:38:46 File exists !!!
+13.10:38:46 COUNT: 12
+13.10:38:46 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 10:40:49 CDT 2011
+13.10:40:49 Init requried!
+13.10:40:49 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:40:49 File exists !!!
+13.10:40:49 COUNT: 12
+13.10:40:49 INITIALIZED !!!
+13.10:40:50 COUNT: 12
+13.10:40:50 ==== INITIALIZED !!!
+LOG OPENED - Thu Oct 13 10:47:03 CDT 2011
+13.10:47:03 Init requried!
+13.10:47:03 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:47:03 File exists !!!
+13.10:47:03 COUNT: 12
+13.10:47:03 INITIALIZED !!!
+13.10:47:03 COUNT: 12
+13.10:47:03 ==== INITIALIZED !!!
+LOG OPENED - Thu Oct 13 10:47:27 CDT 2011
+13.10:47:27 Init requried!
+13.10:47:27 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:47:27 File exists !!!
+13.10:47:27 COUNT: 12
+13.10:47:27 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 10:50:11 CDT 2011
+13.10:50:11 Init requried!
+13.10:50:11 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:50:11 File exists !!!
+13.10:50:11 COUNT: 12
+13.10:50:11 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 10:51:14 CDT 2011
+13.10:51:14 Init requried!
+13.10:51:14 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:51:14 File exists !!!
+13.10:51:14 COUNT: 12
+13.10:51:14 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 10:53:53 CDT 2011
+13.10:53:53 Init requried!
+13.10:53:53 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:53:53 File exists !!!
+13.10:53:53 COUNT: 12
+13.10:53:53 INITIALIZED !!!
+13.10:53:54 Init requried!
+13.10:53:54 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.10:53:54 File exists !!!
+13.10:53:54 COUNT: 12
+13.10:53:54 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 11:02:26 CDT 2011
+13.11:02:26 Init requried!
+13.11:02:26 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.11:02:26 File exists !!!
+13.11:02:26 COUNT: 12
+13.11:02:26 INITIALIZED !!!
+13.11:02:27 Init requried!
+13.11:02:27 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.11:02:27 File exists !!!
+13.11:02:27 COUNT: 12
+13.11:02:27 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 11:04:14 CDT 2011
+13.11:04:14 Init requried!
+13.11:04:14 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.11:04:14 File exists !!!
+13.11:04:14 COUNT: 12
+13.11:04:14 INITIALIZED !!!
+13.11:04:14 Init requried!
+13.11:04:14 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.11:04:14 File exists !!!
+13.11:04:14 COUNT: 12
+13.11:04:14 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 11:17:22 CDT 2011
+13.11:17:22 Init requried!
+13.11:17:22 File:  src/main/webapp/WEB-INF/db/menta.sql
+13.11:17:22 File exists !!!
+13.11:17:22 COUNT: 12
+13.11:17:22 INITIALIZED !!!
+LOG OPENED - Thu Oct 13 12:01:22 CDT 2011
+13.12:01:22 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:03:02 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:03:34 CDT 2011
+13.12:03:34 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:04:42 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:11:45 CDT 2011
+13.12:11:45 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 12:13:49 CDT 2011
+13.12:13:49 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 12:15:28 CDT 2011
+13.12:15:28 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:16:41 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:21:09 CDT 2011
+13.12:21:09 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:23:49 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:31:01 CDT 2011
+13.12:31:01 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:32:12 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:32:21 CDT 2011
+13.12:32:21 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:37:30 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:37:42 CDT 2011
+13.12:37:42 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:39:38 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:39:59 CDT 2011
+13.12:39:59 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:40:11 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:41:50 CDT 2011
+13.12:41:50 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 12:56:15 CDT 2011
+13.12:56:15 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.12:57:37 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 12:59:53 CDT 2011
+13.12:59:53 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:02:43 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:02:46 CDT 2011
+13.13:02:46 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:03:13 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:03:42 CDT 2011
+13.13:03:42 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:14:06 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:18:26 CDT 2011
+13.13:18:26 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:20:08 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:20:10 CDT 2011
+13.13:20:10 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:23:11 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:23:15 CDT 2011
+13.13:23:15 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:23:54 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:23:56 CDT 2011
+13.13:23:56 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:24:28 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:25:17 CDT 2011
+13.13:25:17 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:25:48 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:28:39 CDT 2011
+13.13:28:39 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:31:38 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:31:41 CDT 2011
+13.13:31:41 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 13:33:22 CDT 2011
+13.13:33:22 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:34:13 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:34:14 CDT 2011
+13.13:34:14 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:34:38 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:35:14 CDT 2011
+13.13:35:14 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:35:57 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:36:25 CDT 2011
+13.13:36:25 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:36:59 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:37:01 CDT 2011
+13.13:37:01 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 13:38:08 CDT 2011
+13.13:38:08 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:38:10 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:38:20 CDT 2011
+13.13:38:20 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.13:40:52 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 13:40:56 CDT 2011
+13.13:40:56 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 14:34:50 CDT 2011
+13.14:34:50 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 14:35:03 CDT 2011
+13.14:35:03 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 14:37:00 CDT 2011
+13.14:37:00 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.14:38:16 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 14:39:11 CDT 2011
+13.14:39:11 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 14:41:08 CDT 2011
+13.14:41:08 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 14:42:00 CDT 2011
+13.14:42:00 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 14:42:55 CDT 2011
+13.14:42:55 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 14:45:05 CDT 2011
+13.14:45:05 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 14:48:34 CDT 2011
+13.14:48:34 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 14:49:14 CDT 2011
+13.14:49:14 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.14:49:42 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 14:49:48 CDT 2011
+13.14:49:48 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.14:50:47 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 14:57:13 CDT 2011
+13.14:57:13 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 14:58:51 CDT 2011
+13.14:58:51 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 14:59:15 CDT 2011
+13.14:59:15 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 14:59:43 CDT 2011
+13.14:59:43 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 15:05:00 CDT 2011
+13.15:05:00 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 15:07:33 CDT 2011
+13.15:07:33 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.15:10:26 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 15:10:40 CDT 2011
+13.15:10:40 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:11:23 CDT 2011
+13.15:11:23 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:11:45 CDT 2011
+13.15:11:45 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:13:30 CDT 2011
+13.15:13:30 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:16:13 CDT 2011
+13.15:16:13 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:18:14 CDT 2011
+13.15:18:14 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:19:52 CDT 2011
+13.15:19:52 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:21:59 CDT 2011
+13.15:21:59 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:24:16 CDT 2011
+13.15:24:16 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:26:54 CDT 2011
+13.15:26:54 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:28:37 CDT 2011
+13.15:28:37 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:31:23 CDT 2011
+13.15:31:23 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:32:42 CDT 2011
+13.15:32:42 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 15:34:05 CDT 2011
+13.15:34:05 [Controller] Initializing ApplicationManager from class: org.menta.HibernateAppManager
+LOG OPENED - Thu Oct 13 16:05:38 CDT 2011
+13.16:05:38 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 16:15:59 CDT 2011
+13.16:15:59 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Oct 13 16:27:34 CDT 2011
+13.16:27:34 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.16:27:38 [Controller]  callling destroy() ...
+LOG OPENED - Thu Oct 13 16:27:54 CDT 2011
+13.16:27:54 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+13.16:28:01 [Controller]  callling destroy() ...
+LOG OPENED - Fri Oct 14 09:47:37 CDT 2011
+14.09:47:37 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 14 09:49:15 CDT 2011
+14.09:49:15 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 14 09:50:30 CDT 2011
+14.09:50:30 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Oct 19 14:14:06 CDT 2011
+19.14:14:06 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+19.14:30:39 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 19 14:31:38 CDT 2011
+19.14:31:38 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+19.14:32:33 [Controller]  callling destroy() ...
+LOG OPENED - Fri Oct 21 09:12:10 CDT 2011
+21.09:12:10 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 21 12:31:31 CDT 2011
+21.12:31:31 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 21 13:34:08 CDT 2011
+21.13:34:08 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 24 09:19:10 CDT 2011
+24.09:19:10 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 24 09:20:14 CDT 2011
+24.09:20:14 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.09:20:40 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 09:23:28 CDT 2011
+24.09:23:28 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.09:23:42 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 09:24:45 CDT 2011
+24.09:24:45 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.09:26:42 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 09:27:40 CDT 2011
+24.09:27:40 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.09:28:54 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 14:45:58 CDT 2011
+24.14:45:58 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 24 14:50:04 CDT 2011
+24.14:50:04 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.15:13:09 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 15:13:16 CDT 2011
+24.15:13:16 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.15:14:57 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 15:15:14 CDT 2011
+24.15:15:14 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.15:18:37 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 15:18:40 CDT 2011
+24.15:18:40 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.15:35:59 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 15:36:05 CDT 2011
+24.15:36:05 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.15:40:26 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 15:42:44 CDT 2011
+24.15:42:44 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.15:42:55 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 15:43:02 CDT 2011
+24.15:43:02 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+24.15:43:18 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 24 15:43:41 CDT 2011
+24.15:43:41 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 08:38:36 CDT 2011
+25.08:38:36 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+25.08:39:11 [Controller]  callling destroy() ...
+LOG OPENED - Tue Oct 25 08:39:16 CDT 2011
+25.08:39:16 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 08:41:37 CDT 2011
+25.08:41:37 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 14:07:20 CDT 2011
+25.14:07:20 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 14:30:31 CDT 2011
+25.14:30:31 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+25.14:33:05 [Controller]  callling destroy() ...
+LOG OPENED - Tue Oct 25 14:33:27 CDT 2011
+25.14:33:27 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+25.14:35:05 [Controller]  callling destroy() ...
+LOG OPENED - Tue Oct 25 14:35:10 CDT 2011
+25.14:35:10 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 14:45:07 CDT 2011
+25.14:45:07 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 15:02:00 CDT 2011
+25.15:02:00 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 16:09:53 CDT 2011
+25.16:09:53 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 16:30:58 CDT 2011
+25.16:30:58 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 16:37:38 CDT 2011
+25.16:37:38 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 16:41:33 CDT 2011
+25.16:41:33 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 17:11:30 CDT 2011
+25.17:11:30 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Oct 25 17:16:45 CDT 2011
+25.17:16:45 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+25.17:23:49 [Controller]  callling destroy() ...
+LOG OPENED - Tue Oct 25 17:24:18 CDT 2011
+25.17:24:18 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+26.10:10:24 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 26 11:34:16 CDT 2011
+26.11:34:16 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Oct 26 11:38:05 CDT 2011
+26.11:38:05 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Oct 26 11:38:42 CDT 2011
+26.11:38:42 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Oct 26 11:40:12 CDT 2011
+26.11:40:12 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Oct 26 11:40:26 CDT 2011
+26.11:40:26 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+26.11:40:53 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 26 11:41:21 CDT 2011
+26.11:41:21 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+26.11:50:02 [Controller]  callling destroy() ...
+LOG OPENED - Wed Oct 26 11:50:16 CDT 2011
+26.11:50:16 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Oct 26 11:50:36 CDT 2011
+26.11:50:36 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Oct 26 12:01:31 CDT 2011
+26.12:01:31 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Oct 26 12:29:15 CDT 2011
+26.12:29:15 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 08:55:32 CDT 2011
+28.08:55:32 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+28.09:01:37 [Controller]  callling destroy() ...
+LOG OPENED - Fri Oct 28 09:01:41 CDT 2011
+28.09:01:41 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 09:15:04 CDT 2011
+28.09:15:04 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+28.09:18:41 [Controller]  callling destroy() ...
+LOG OPENED - Fri Oct 28 09:26:54 CDT 2011
+28.09:26:54 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 09:28:29 CDT 2011
+28.09:28:29 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+28.09:28:44 [Controller]  callling destroy() ...
+LOG OPENED - Fri Oct 28 09:40:59 CDT 2011
+28.09:40:59 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 10:07:38 CDT 2011
+28.10:07:38 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+28.10:09:05 [Controller]  callling destroy() ...
+LOG OPENED - Fri Oct 28 10:10:41 CDT 2011
+28.10:10:41 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+28.10:19:27 [Controller]  callling destroy() ...
+LOG OPENED - Fri Oct 28 10:19:55 CDT 2011
+28.10:19:55 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 10:32:12 CDT 2011
+28.10:32:12 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 11:09:18 CDT 2011
+28.11:09:18 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 15:51:36 CDT 2011
+28.15:51:36 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 16:07:10 CDT 2011
+28.16:07:10 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 16:21:54 CDT 2011
+28.16:21:54 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Fri Oct 28 16:46:27 CDT 2011
+28.16:46:27 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 31 08:57:20 CDT 2011
+31.08:57:20 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+31.08:57:58 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 31 08:58:46 CDT 2011
+31.08:58:46 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 31 08:59:50 CDT 2011
+31.08:59:50 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 31 10:10:06 CDT 2011
+31.10:10:06 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 31 16:26:55 CDT 2011
+31.16:26:55 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+31.17:31:19 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 31 17:33:20 CDT 2011
+31.17:33:20 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 31 17:36:25 CDT 2011
+31.17:36:25 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 31 17:37:32 CDT 2011
+31.17:37:32 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 31 17:39:05 CDT 2011
+31.17:39:05 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+31.17:42:32 [Controller]  callling destroy() ...
+LOG OPENED - Mon Oct 31 17:42:36 CDT 2011
+31.17:42:36 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Mon Oct 31 17:48:09 CDT 2011
+31.17:48:09 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+01.08:36:08 [Controller]  callling destroy() ...
+LOG OPENED - Tue Nov 01 08:37:11 CDT 2011
+01.08:37:11 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Tue Nov 01 17:28:21 CDT 2011
+01.17:28:21 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 08:54:45 CDT 2011
+02.08:54:45 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 08:56:58 CDT 2011
+02.08:56:58 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 09:28:33 CDT 2011
+02.09:28:33 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 09:29:18 CDT 2011
+02.09:29:18 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+02.09:31:28 [Controller]  callling destroy() ...
+LOG OPENED - Wed Nov 02 09:31:50 CDT 2011
+02.09:31:50 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+02.09:36:09 [Controller]  callling destroy() ...
+LOG OPENED - Wed Nov 02 09:37:11 CDT 2011
+02.09:37:11 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+02.09:38:33 [Controller]  callling destroy() ...
+LOG OPENED - Wed Nov 02 09:39:13 CDT 2011
+02.09:39:13 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+02.09:44:19 [Controller]  callling destroy() ...
+LOG OPENED - Wed Nov 02 09:44:25 CDT 2011
+02.09:44:25 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+02.09:50:18 [Controller]  callling destroy() ...
+LOG OPENED - Wed Nov 02 09:51:19 CDT 2011
+02.09:51:19 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+02.09:59:18 [Controller]  callling destroy() ...
+LOG OPENED - Wed Nov 02 09:59:39 CDT 2011
+02.09:59:39 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+02.10:05:30 [Controller]  callling destroy() ...
+LOG OPENED - Wed Nov 02 10:05:38 CDT 2011
+02.10:05:38 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+02.10:08:53 [Controller]  callling destroy() ...
+LOG OPENED - Wed Nov 02 10:09:02 CDT 2011
+02.10:09:02 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 10:53:39 CDT 2011
+02.10:53:39 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 12:43:48 CDT 2011
+02.12:43:48 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 13:03:40 CDT 2011
+02.13:03:40 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 13:15:11 CDT 2011
+02.13:15:11 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 15:27:03 CDT 2011
+02.15:27:03 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 15:48:14 CDT 2011
+02.15:48:14 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Wed Nov 02 16:58:26 CDT 2011
+02.16:58:26 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Nov 03 08:48:25 CDT 2011
+03.08:48:25 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Nov 03 08:55:56 CDT 2011
+03.08:55:56 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Nov 03 09:34:34 CDT 2011
+03.09:34:34 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+03.09:34:56 [Controller]  callling destroy() ...
+LOG OPENED - Thu Nov 03 09:35:15 CDT 2011
+03.09:35:15 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+03.09:36:26 [Controller]  callling destroy() ...
+LOG OPENED - Thu Nov 03 09:36:31 CDT 2011
+03.09:36:31 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+03.09:36:55 [Controller]  callling destroy() ...
+LOG OPENED - Thu Nov 03 09:36:57 CDT 2011
+03.09:36:57 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+03.09:37:51 [Controller]  callling destroy() ...
+LOG OPENED - Thu Nov 03 09:37:55 CDT 2011
+03.09:37:55 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+03.09:39:17 [Controller]  callling destroy() ...
+LOG OPENED - Thu Nov 03 09:40:04 CDT 2011
+03.09:40:04 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+LOG OPENED - Thu Nov 03 11:17:01 CDT 2011
+03.11:17:01 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+03.11:17:58 [Controller]  callling destroy() ...
+LOG OPENED - Thu Nov 03 18:53:28 CDT 2011
+03.18:53:28 [Controller] Initializing ApplicationManager from class: org.menta.AppManager
+04.08:28:13 [Controller]  callling destroy() ...
+LOG OPENED - Fri Nov 04 08:28:17 CDT 2011
+04.08:28:17 [Controller] Initializing ApplicationManager from class: org.menta.AppManager

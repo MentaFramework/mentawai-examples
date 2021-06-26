@@ -1,0 +1,66 @@
+
+# Globals
+
+title = Aplicativo de referência do Mentawai
+
+# LoginAction
+
+LoginAction.no_username = Favor digitar um apelido!
+LoginAction.no_password = Favor digitar uma senha!
+LoginAction.unknown_user = Apelido inexistente!
+LoginAction.bad_password = Senha incorreta!
+
+# UserAction
+
+UserAction.required_field = Campo obrigatório!
+UserAction.bad_username = Apelido inválido!
+UserAction.bad_email = Email inválido!
+UserAction.pass_no_match = As senhas não conferem!
+UserAction.username_already_exists = Esse apelido já existe!
+UserAction.registration_ok = Seu cadastro foi efetuado com sucesso!
+UserAction.edit_ok = Informações alteradas com sucesso!
+
+# index.jsp
+
+index.welcome = Bem-vindo $1
+index.logout = Sair
+index.alter_profile = Clique aqui para alterar sua conta!
+index.only_admin_master = Somente admin e master podem alterar conta!
+
+# login.jsp
+
+login.login = Login
+login.username = Apelido:
+login.password = Senha:
+login.enter = Entrar
+login.register = Clique aqui para se cadastrar!
+
+# user/add.jsp
+
+user.add.registration = Cadastro
+user.add.username = Apelido:
+user.add.password = Senha:
+user.add.passconf = Confirme:
+user.add.email = Email:
+user.add.go = Cadastrar
+user.add.register = Já sou cadastrado!
+user.add.group = Grupo:
+user.add.language = Idioma:
+user.add.username_error = Erro checando apelido!
+user.add.username_already = Apelido já existe!
+
+# user/edit.jsp
+
+user.edit.account = Sua conta
+user.edit.username = Apelido:
+user.edit.email = Email:
+user.edit.save = Salvar
+user.edit.back = Retornar para página principal!
+user.edit.group = Grupo:
+user.edit.language = Idioma:
+user.edit.username_error = Erro checando apelido!
+user.edit.username_already = Apelido já existe!
+
+
+
+
